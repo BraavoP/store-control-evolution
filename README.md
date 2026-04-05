@@ -54,6 +54,10 @@ Reestruturação da planilha com foco em automação, usabilidade e segurança.
 **Objetivo da etapa:**
 Transformar a planilha em um sistema mais próximo de uma aplicação, mesmo ainda dentro do Excel.
 
+### ⚙️ Lógica automatizada com fórmulas
+
+A planilha utiliza fórmulas dinâmicas (MAP, PROCX, INDIRETO) para se autoalimentar e aplicar regras de negócio automaticamente.
+
 ---
 
 ### 🔹 Etapa 3 — Versão em Python (planejado)
