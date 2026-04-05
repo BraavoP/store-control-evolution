@@ -1,6 +1,11 @@
 # 🧾 Controle Loja
 
 Projeto focado na evolução de um sistema de controle operacional e financeiro, partindo de uma planilha simples até um sistema completo com interface.
+Esse projeto surgiu de uma necessidade real: controlar pedidos e dividir o lucro com minha irmã com precisão.
+
+A primeira versão foi construída de forma orgânica, com fórmulas sendo adicionadas conforme novas necessidades apareciam. Apesar de funcional para uso pessoal, a estrutura ficou difícil de manter e pouco intuitiva para outras pessoas.
+
+A versão 2 nasceu com o objetivo de evoluir esse modelo, criando uma estrutura mais organizada, com separação entre entrada de dados e processamento, além de melhorias na usabilidade e visualização das informações.
 
 ---
 
